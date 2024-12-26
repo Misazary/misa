@@ -1,2 +1,2 @@
-# misa
+# Misa
 My personal repository
